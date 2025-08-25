@@ -1,0 +1,9 @@
+{
+   "subjects":[
+        {"name": "Structural Analysis","id":"123"},
+        {"name": "Geotechnical Engineering","id":"SD393"},
+        {"name": "Environmental Engineering","id":"JFH40"},
+        {"name": "Transportation Engineering","id":"MF944"},
+        {"name": "Hydraulics","id":"JE9449"}
+      ]
+}
